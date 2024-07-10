@@ -5,3 +5,5 @@
 4. Choose Your Own Adventure Game
 5. Password Manager
 6. PIG
+7. Mad lib story Builder
+8. Timed math challenge
