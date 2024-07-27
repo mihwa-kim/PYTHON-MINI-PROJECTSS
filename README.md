@@ -1,4 +1,5 @@
-# PYTHON-MINI-PROJECTS
+## PYTHON-MINI-PROJECTS
+### From Basic level to Advanced, Let's keep learning to improve Python skills.
 1. quiz game
 2. number guesser
 3. Rock, Paper, Scissors
@@ -13,3 +14,10 @@
 12. Alarm Clock
 13. Password Generator
 14. Shortest Path Finder
+15. NBA Stats & Current Scores
+16. Currency Converter
+17. YouTube Video Downloader
+18. Automated File BackUp
+19. Mastermind/4 Color match
+20. Aim Trainer
+21. Advanced Python Scripting
